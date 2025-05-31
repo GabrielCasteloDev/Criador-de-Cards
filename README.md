@@ -2,7 +2,7 @@
 Este é um projeto web simples e interativo que permite ao usuário criar cards personalizados com nome, descrição e imagem. Ideal para praticar conceitos básicos de HTML, CSS e JavaScript puro.
 
 <h2>📸 Demonstração</h2>
-![Captura de Tela](./printscreen.png)
+<img src="./printscreen.png">
 
 
 <h2>🚀 Funcionalidades</h2>
